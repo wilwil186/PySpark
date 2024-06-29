@@ -55,10 +55,11 @@ pip install pyspark
 
 ## Machine Learning con PySpark
 
+Vamos a crear un modelo de K-medias con los datos [https://www.kaggle.com/datasets/vijayuv/onlineretail?resource=download](https://www.kaggle.com/datasets/vijayuv/onlineretail?resource=download) para aprender mejor como se usa la libreria PySpark: 
 
+El siguiente paso es cambiar su nombre por datacamp_ecommerce esto unicamente para seguir el tutorial de la pagina [https://www.datacamp.com/es/tutorial/pyspark-tutorial-getting-started-with-pyspark](https://www.datacamp.com/es/tutorial/pyspark-tutorial-getting-started-with-pyspark)
 
-
-
+*Para seguir este proyecto consultar el archivo ML.ipynb de esta misma carpeta*
 
 
 
