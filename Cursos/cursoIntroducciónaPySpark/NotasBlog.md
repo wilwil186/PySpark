@@ -61,6 +61,3 @@ El siguiente paso es cambiar su nombre por datacamp_ecommerce esto unicamente pa
 
 *Para seguir este proyecto consultar el archivo ML.ipynb de esta misma carpeta*
 
-
-
-
